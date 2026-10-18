@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Yeni Oyun Projesi (Copy)"
-run/main_scene="uid://c5p3vds0mebn"
+run/main_scene="uid://cnm62566sb6m1"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 

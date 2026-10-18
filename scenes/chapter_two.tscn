@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://ck0xc1pp6nusm"]
+
+[ext_resource type="PackedScene" uid="uid://b5ux5rkmehjb5" path="res://scenes/tarçın_çın.tscn" id="1_71xnl"]
+
+[node name="chapter_two" type="Node2D" unique_id=918775006]
+
+[node name="tarçın çın" parent="." unique_id=689549326 instance=ExtResource("1_71xnl")]
+position = Vector2(5, -8)
+scale = Vector2(0.35, 0.35)
+
+[node name="Camera2D" type="Camera2D" parent="tarçın çın" unique_id=1913056541]
+position = Vector2(46, 0)
+zoom = Vector2(4, 4)
